@@ -1,2 +1,2 @@
 # my_first_github_repository
-Empty row. This file was modified locally
+This line was modified manully during conflich resolution
