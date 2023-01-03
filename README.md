@@ -1,2 +1,3 @@
 # my_first_github_repository
-This line was modified manully during conflich resolution
+This line was modified manually during conflich resolution
+Another line
